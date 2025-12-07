@@ -97,9 +97,10 @@ I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, a
 <!-- ===================== STATS ===================== -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TalhaAbbas55&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TalhaAbbas55&show_icons=true&count_private=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAbbas55&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
