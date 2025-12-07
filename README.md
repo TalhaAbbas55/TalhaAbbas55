@@ -73,7 +73,7 @@ Tools
 
 Portfolio: https://talha-abbas-portfolio.vercel.app
 
-LinkedIn: (add your link)
+LinkedIn: https://www.linkedin.com/in/talha-abbas-developer/
 
 GitHub: https://github.com/TalhaAbbas55
 
