@@ -95,11 +95,11 @@ I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, a
 ---
 
 <!-- ===================== STATS ===================== -->
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=TalhaAbbas55&show_icons=true&count_private=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAbbas55&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 
 ---
@@ -109,7 +109,7 @@ I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, a
 <p align="center">
   <a href="https://talha-abbas-portfolio.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/talha-abbas-developer/" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/TalhaAbbas55" target="_blank">GitHub</a> •
+  <!-- <a href="https://github.com/TalhaAbbas55" target="_blank">GitHub</a> • -->
   <a href="mailto:talhaatdev@gmail.com">Email</a>
 </p>
 
