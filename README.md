@@ -114,7 +114,7 @@ See pinned repositories above for working code — RAG pipelines, PDF/URL chat t
 <!-- ===================== CONNECT ===================== -->
 ### 🌎 Connect With Me
 <p align="center">
-  <a href="https://talha-abbas-portfolio.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://talha-abbas.vercel.app/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/talha-abbas-developer/" target="_blank">LinkedIn</a> •
   <a href="mailto:talhaatdev@gmail.com">Email</a>
 </p>
