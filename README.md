@@ -3,7 +3,8 @@
 <h3 align="center">Full-Stack Developer — React • Next.js • Node.js | AI/LLM Applications — RAG • LangChain</h3>
 
 <p align="center">
-<img src="./profile/streak.svg" alt="GitHub Streak" /></p>
+<img src="https://streak-stats.demolab.com/?user=TalhaAbbas55..." />
+</p>
 
 ---
 
