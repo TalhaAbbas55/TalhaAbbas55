@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">⭐ Talha Abbas</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | React • Next.js • React Native • TypeScript • UI/UX • Web3 • 3D Web</h3>
+<h3 align="center">Full-Stack Developer — React • Next.js • Node.js | AI/LLM Applications — RAG • LangChain</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TalhaAbbas55&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -9,51 +9,60 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-👋 Hi, I'm **Talha**!  
-I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, and Tailwind. I also handle backend flows with Node.js & MongoDB, and integrate Web3 / ENS subdomain systems.  
+👋 Hi, I'm **Talha**!
+I build **fast, scalable, production-ready applications** with React, Next.js, TypeScript, and Node.js. I'm also building hands-on with LLMs, RAG pipelines, and AI agents, several of which are pinned below as working repos, not just tutorials.
 
 💡 I specialize in:
-- Pixel-perfect, animated interfaces  
-- Reusable component systems  
-- 3D interactive UI using Three.js  
-- Mobile apps with React Native  
-- Agile workflow & accurate time estimates  
+- Full-stack web apps: React, Next.js, Node.js, MongoDB
+- RAG pipelines & LLM-powered tools (LangChain, vector stores, Ollama)
+- Pixel-perfect, animated interfaces
+- Mobile apps with React Native
+- 3D interactive UI using Three.js
 
 ---
 
 <!-- ===================== TECH STACK ===================== -->
 ### 🚀 Tech Stack & Tools
 
-**Frontend**  
+**AI & Generative AI**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=flat" />
+  <img src="https://img.shields.io/badge/Ollama-black?style=flat" />
+  <img src="https://img.shields.io/badge/Vector_DB-Chroma-orange?style=flat" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,sass,vite,redux" />
 </p>
 
-**State Management**  
+**State Management**
 <p>
   <img src="https://skillicons.dev/icons?i=redux" />
   <img src="https://img.shields.io/badge/Zustand-black?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery" />
 </p>
 
-**Backend**  
+**Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs,firebase" />
 </p>
 
-**Mobile & Desktop**  
+**Mobile & Desktop**
 <p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,electron" />
 </p>
 
-**Web3 & 3D**  
+**Web3 & 3D**
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity" />
   <img src="https://img.shields.io/badge/ENS-blue?logo=ethereum" />
   <img src="https://skillicons.dev/icons?i=threejs" />
 </p>
 
-**Tools**  
+**Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,linux" />
 </p>
@@ -67,40 +76,38 @@ I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, a
   <img src="https://img.shields.io/badge/PuCon_Competition_Runner-Up-4caf50?style=for-the-badge" />
 </p>
 
-- 🚀 Contributed to production apps with **1000+ monthly users**  
-- 🕒 1389+ coding hours tracked on **WakaTime (2024)**  
-- 🎟 Built full-stack apps, mobile apps, and interactive 3D Web UIs  
+- 🚀 Contributed to production apps with **1000+ monthly users**
+- 🕒 1389+ coding hours tracked on **WakaTime (2024)**
+- 🎟 Built full-stack apps, mobile apps, and AI-powered tools (RAG, LLM agents, PDF/URL chat systems)
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-### 📂 Featured Projects
-
-**🔧 Auto Shop Answers — React Native + Firebase**  
-✔ Event booking system & Admin panel  
-✔ Realtime updates & +25% engagement  
-
-**🧪 Curl Compass — React Native + Node.js**  
-✔ Hair health journaling app & Analytics dashboard  
-✔ Smooth animations & responsive UI  
-
-**🎟 NeverLeft (Venues) — React / React Native / Next.js**  
-✔ Ticketing + QR check-in & Stripe payments  
-✔ Cross-platform sync  
-
-**🧱 Custom Websites Club — React + Node.js + Node-RED**  
-✔ AI website builder & drag-and-drop widgets  
-✔ Integrated OpenAI, reduced design effort by 60%  
+<!-- ===================== AI PROJECTS ===================== -->
+### 🤖 AI / LLM Projects
+See pinned repositories above for working code — RAG pipelines, PDF/URL chat tools, and local LLM apps built with LangChain, Ollama, and vector databases.
 
 ---
 
-<!-- ===================== STATS ===================== -->
-<!-- ### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TalhaAbbas55&show_icons=true&count_private=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAbbas55&layout=compact&theme=radical" />
-</p> -->
+<!-- ===================== EXPERIENCE PROJECTS ===================== -->
+### 📂 Selected Work (Employer/Client Projects — Private Codebases)
 
+**🔧 Auto Shop Answers — React Native + Firebase**
+✔ Event booking system & Admin panel
+✔ Realtime updates & +25% engagement
+
+**🧪 Curl Compass — React Native + Node.js**
+✔ Hair health journaling app & Analytics dashboard
+✔ Smooth animations & responsive UI
+
+**🎟 NeverLeft (Venues) — React / React Native / Next.js**
+✔ Ticketing + QR check-in & Stripe payments
+✔ Cross-platform sync
+
+**🧱 Custom Websites Club — React + Node.js + Node-RED**
+✔ AI website builder & drag-and-drop widgets
+✔ Integrated OpenAI, reduced design effort by 60%
+
+*Case studies and write-ups for select projects available on my [portfolio](https://talha-abbas-portfolio.vercel.app).*
 
 ---
 
@@ -109,11 +116,10 @@ I build **fast, scalable, and beautiful UIs** with React, Next.js, TypeScript, a
 <p align="center">
   <a href="https://talha-abbas-portfolio.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/talha-abbas-developer/" target="_blank">LinkedIn</a> •
-  <!-- <a href="https://github.com/TalhaAbbas55" target="_blank">GitHub</a> • -->
   <a href="mailto:talhaatdev@gmail.com">Email</a>
 </p>
 
 ---
 
-🎉 Thanks for visiting my profile!  
+🎉 Thanks for visiting my profile!
 If you like my work, feel free to ⭐ my repositories.
